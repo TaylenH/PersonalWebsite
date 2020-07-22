@@ -1,0 +1,38 @@
+{
+  "name": "taylenh",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@mollycule/react-anime": "0.0.7",
+    "@types/animejs": "^3.1.1",
+    "@types/material-ui": "^0.21.7",
+    "@types/react-transition-group": "^4.4.0",
+    "animejs": "^3.2.0",
+    "next": "9.3.3",
+    "next-images": "^1.4.0",
+    "react": "16.13.1",
+    "react-anime": "^3.0.3",
+    "react-dom": "16.13.1",
+    "react-download-link": "^2.3.0",
+    "react-parallax": "^3.0.3",
+    "react-pose": "^4.0.10",
+    "react-reveal": "^1.2.2",
+    "react-transition-group": "^4.4.1",
+    "react-use-scroll-position": "^2.0.0",
+    "react-visibility-sensor": "^5.1.1",
+    "react-waypoint": "^9.0.3",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.14",
+    "@types/react": "^16.9.43",
+    "typescript": "^3.9.7"
+  }
+}
